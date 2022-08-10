@@ -1,0 +1,113 @@
+.header {
+    padding: 1%;
+    background-color: rgb(10, 10, 10);
+}
+
+.list {
+    font-size: 15px;
+    list-style-type: none;
+    display: inline-flex;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    color: rgba(236, 207, 126, 0.829);
+}
+
+.card {
+    margin: 3%;
+    background: transparent;
+   
+    /* border-color: white; */
+}
+
+p,
+h5 {
+    padding-left: 10px;
+}
+
+#button {
+    width: 225%;
+}
+
+.hd {
+    text-align: center;
+}
+
+.items {
+    margin: 27px;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+.card-img {
+    width: 30%;
+}
+
+.row items {
+    background-image: url(back.jpg);
+}
+
+#cartcontainer {
+    position: absolute;
+    z-index: 1;
+    top: 100px;
+    left: 100px;
+    transform: 0.5s;
+    background-color: rgb(201, 248, 248);
+    border-radius: 15px;
+    /* background: transparent; */
+}
+
+#my {
+    display: flex;
+    float: right;
+    margin-right: 30px;
+    margin-top: 10px;
+
+}
+
+h2 {
+    margin-left: 30px;
+}
+
+.product {
+    display: inline;
+    padding-left: 20px;
+}
+
+.loign {
+    text-align: center;
+}
+
+.container {
+    position: absolute;
+    z-index: 2;
+    top: 100px;
+    left: 100px;
+    transform: 0.5s;
+    background-color: rgb(201, 248, 248);
+    border-radius: 15px;
+    color: red;
+    padding-left: 32%;
+}
+
+/* .section1 {
+    text-align: center;
+    width: 20%;
+    background-color: rgb(203, 221, 169);
+} */
+
+label {
+    color: black;
+}
+.head,
+.button{
+    padding-left: 10%;
+}
