@@ -49,6 +49,11 @@ h6 {
 .card-img {
     width: 30%;
 }
+.message{
+    text-align: center;
+    font-size: large;
+
+}
 
 .row items {
     background-image: url(back.jpg);
